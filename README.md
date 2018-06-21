@@ -2,6 +2,4 @@
 
 Nice website!
 
-Now editing on update-readme branch!
-
-New local edit
+Updates made on master on GH before rebase
